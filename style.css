@@ -1,0 +1,60 @@
+.right {
+  margin-left: auto;
+}
+.dropdown-item:hover {
+  background: linear-gradient(45deg, black, darkslategray);
+  color: white;
+  background-origin: 0 0 5px black;
+}
+.bg-teal,
+btn-teal {
+  background-color: #2a6f6f;
+}
+.text-teal {
+  color: #2a6f6f;
+}
+.bg-primary,
+.btn-primary {
+  background: linear-gradient(45deg, darkslategray, cornflowerblue);
+}
+.bg-success,
+.btn-success {
+  background: linear-gradient(45deg, darkslategray, limegreen);
+}
+.bg-warning,
+.btn-warning {
+  background: linear-gradient(45deg, darkslategray, coral);
+}
+.bg-dnger,
+.btn-danger {
+  background: linear-gradient(45deg, darkslategray, red);
+}
+.bg-secondary,
+.btn-secondary {
+  background: linear-gradient(45deg, darkslategray, purple);
+}
+.bg-light-blue {
+  background-color: #c0d1eb;
+}
+.bg-light-green {
+  background-color: #91f597;
+}
+.bg-light-warning {
+  background-color: #fcdfd3;
+}
+.my-image {
+  border-radius: 10px;
+  box-shadow: 0 0 10px black;
+}
+.bg {
+  background: white url(./images/8.jpg) no-repeat scroll center;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+}
+.form-con {
+  box-shadow: 0 0 10px white;
+  border-radius: 10px;
+  padding: 50px 60px;
+  margin-top: 20vh;
+}
